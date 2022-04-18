@@ -26,7 +26,9 @@ import static net.runelite.client.util.Text.sanitize;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Collection Log Command"
+	name = "Collection Log Command",
+	description = "Displays collection log data using a chat command.",
+	tags = {"Collection", "Log", "Command"}
 )
 public class CollectionLogCommandPlugin extends Plugin
 {
