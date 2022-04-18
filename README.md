@@ -14,5 +14,7 @@ The command will try to alias common ways to refer to a piece of content to the 
 - `!log ba` -> Barbarian Assault
 - `!log rooftop` -> Rooftop Agility
 - `!log pets` -> All Pets
+- `!log brim agility` -> Brimhaven Agility Arena
+- `!log shared clues` -> Shared Treasure Trail Rewards
 
 The collection log data is pulled from [collectionlog.net](https://collectionlog.net). In order for your account to have accurate data install the [Collection Log Plugin](https://github.com/evansloan/collection-log) and enable the upload feature.
